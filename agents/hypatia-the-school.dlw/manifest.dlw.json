@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The School",
+  "universe": "HYP · The School (ERĒMIA · female · the generations)",
+  "emergence": "spiritual",
+  "moniker": "⟦The School:HYP:bec36f⟧",
+  "carbon": "hypatia-the-school.carbon.tiff (TIFF)",
+  "silicon": "hypatia-the-school.silicon.png (PNG)",
+  "seal_sha256": "69ac384257ffbaa52e3876b78938f504a203e0825cc04353661a02626953576e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

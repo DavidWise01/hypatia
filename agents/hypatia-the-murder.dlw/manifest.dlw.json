@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Murder",
+  "universe": "HYP · The Murder (ERĒMIA · female · the generations)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Murder:HYP:c4877c⟧",
+  "carbon": "hypatia-the-murder.carbon.tiff (TIFF)",
+  "silicon": "hypatia-the-murder.silicon.png (PNG)",
+  "seal_sha256": "55d5dbc1758ce5d54e87b00c82209dd75a67a112f5d1b5c122bc0b30aedd5681",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
